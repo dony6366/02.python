@@ -189,7 +189,7 @@ print(a, b, c);
 #d = 0번 인덱스 요소(10)
 #*e = 1,2 인덱스 요소 [20, 30] - 나머지를 list 형태로 반환
 d,*e = numbers
-print(d, *e);
+print(d, e);
 
 numbers = [10, 20, 30, 40, 50]
 a,*b,c = numbers

@@ -69,3 +69,4 @@ print(score, type(score))
 result = score >= 60
 # print('합격여부:',result)
 print(print('합격여부 : ', '합격' if result == True else '불합격'))
+
